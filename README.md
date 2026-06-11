@@ -41,3 +41,9 @@ Aplicación web desarrollada con JavaScript orientado a objetos que permite a un
 ---
 
 Proyecto realizado con fines educativos para practicar JavaScript y Programación Orientada a Objetos.
+
+
+<img width="1849" height="1009" alt="Captura desde 2026-05-20 12-48-14" src="./images/image4.png" />
+<img width="1849" height="1009" alt="Captura desde 2026-05-20 12-48-14" src="./images/image3.png" />
+<img width="1849" height="1009" alt="Captura desde 2026-05-20 12-48-14" src="./images/image2.png" />
+<img width="1849" height="1009" alt="Captura desde 2026-05-20 12-48-14" src="./images/image1.png" />
